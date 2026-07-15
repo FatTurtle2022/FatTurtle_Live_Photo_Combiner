@@ -1,0 +1,2 @@
+# FatTurtle_Live_Photo_Combiner
+iPhone实况照片传输至Windows时会被分离为静态图片和视频，本程序将它们重新合并为实况照片。
